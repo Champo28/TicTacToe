@@ -1,2 +1,2 @@
-# TikTacToe
+# TiCTacToe
 IA Tic Tac Toe
